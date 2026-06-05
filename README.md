@@ -1,11 +1,10 @@
-### 👋 Hi, I'm Satyam Priyadarshi
+<h3> 👋 Hi, I'm Satyam Priyadarshi</h3>
 
-**Aspiring SOC Analyst**
+**Aspiring SOC Analyst**  
 Blue Team • Threat Detection • Incident Response
 
----
 
-### 👤 About Me
+**👤 About Me**
 
 I am an aspiring SOC Analyst focused on Blue Team operations and building real-world defensive security skills. My work spans threat detection, log analysis, and incident response mapped to MITRE ATT&CK.
 
@@ -14,9 +13,8 @@ I am an aspiring SOC Analyst focused on Blue Team operations and building real-w
 - ☁️ AWS cloud security basics — IAM, GuardDuty, CloudTrail
 - 🐍 Python automation for security tasks and API integration
 
----
 
-### 🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 - **Languages:** Python, Bash
 - **Security Tools:** Wireshark, Burp Suite, Nmap, SIEM (Splunk/ELK basics)
@@ -24,9 +22,8 @@ I am an aspiring SOC Analyst focused on Blue Team operations and building real-w
 - **Frameworks:** MITRE ATT&CK, OWASP Top 10, Cyber Kill Chain
 - **Other:** Git, Linux, Kali Linux, VS Code
 
----
 
-### 🔐 Projects
+**🔐 Projects**
 
 **cybersecurity-learning**
 Personal security study repository covering SOC fundamentals and Blue Team skills.
@@ -46,9 +43,8 @@ Currently building:
 - Phishing email header analyzer
 - Network traffic anomaly detection tool
 
----
 
-### 📜 Certifications
+**📜 Certifications**
 
 - Palo Alto Network Security Fundamentals — ✅ Completed
 - Palo Alto Cloud Security — ✅ Completed
@@ -58,9 +54,9 @@ Currently building:
 
 ---
 
-### 🔗 Connect
+**🔗 Connect**
 
+- Portfolio: https://Satyam-Priyadarshi.github.io
 - LinkedIn: [satyam-priyadarshi](https://www.linkedin.com/in/satyam-priyadarshi-0265431b7/)
-- GitHub: [satyam-priyadarshi](https://github.com/satyam-priyadarshi)
-- TryHackMe: [sp1055259](https://tryhackme.com/p/SatyamPriyadarshi)
+- TryHackMe: [SatyamPriyadarshi](https://tryhackme.com/p/SatyamPriyadarshi)
 - Email: sp1055259@gmail.com
