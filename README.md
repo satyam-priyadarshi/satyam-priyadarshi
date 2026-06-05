@@ -38,10 +38,9 @@ Python CLI tool for automated IP reputation analysis using IPInfo API.
 - Built for SOC triage and alert enrichment workflows
 
 **🔧 In the Lab...**
-Currently building:
-- SIEM alert triage automation scripts
-- Phishing email header analyzer
-- Network traffic anomaly detection tool
+Currently building: 
+More Projects....
+
 
 
 **📜 Certifications**
