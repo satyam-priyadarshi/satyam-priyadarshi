@@ -45,9 +45,9 @@ More Projects....
 
 **📜 Certifications**
 
-- Palo Alto Network Security Fundamentals — ✅ Completed
-- Palo Alto Cloud Security — ✅ Completed
-- CISCO - Linux Unhatched — ✅ Completed
+- Palo Alto Network Security Fundamentals
+- Palo Alto Cloud Security Fundamentals
+- Cisco - Linux Unhatched 
 
 ---
 
