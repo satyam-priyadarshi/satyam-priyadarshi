@@ -48,8 +48,6 @@ More Projects....
 - Palo Alto Network Security Fundamentals — ✅ Completed
 - Palo Alto Cloud Security — ✅ Completed
 - CISCO - Linux Unhatched — ✅ Completed
-- ISC2 Certified in Cybersecurity (CC) — 🟡 In Progress
-- TryHackMe — Top 25% Globally
 
 ---
 
